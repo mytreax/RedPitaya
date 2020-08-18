@@ -155,7 +155,7 @@ For run the lcr, you need to do 23 steps:
 
         .. code-block:: console
 
-            root@rp-f07167:/# cat /opt/redpitaya/fpga/fpga_0.94.bit > /dev/xdevcfg
+            root@rp-f01c35:/# cat /opt/redpitaya/fpga/fpga_0.94.bit > /dev/xdevcfg
 
     #. ) Launch a console application.
 
