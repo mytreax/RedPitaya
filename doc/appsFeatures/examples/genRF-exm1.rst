@@ -60,7 +60,7 @@ Code - C
     #include <stdlib.h>
     #include <unistd.h>
 
-    #include "redpitaya/rp.h"
+    #include "rp.h"
 
     int main(int argc, char **argv){
 
