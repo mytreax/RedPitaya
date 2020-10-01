@@ -185,4 +185,4 @@ Code - LabVIEW
 
 .. image:: Read-analog-voltage-on-slow-analog-input_LV.png
 
-`Download <http://downloads.redpitaya.com/downloads/labview/Read%20analog%20voltage%20on%20slow%20analog%20input.vi>`_
+`Download <http://35.204.63.20:81/downloads/Clients/labview/Read%20analog%20voltage%20on%20slow%20analog%20input.vi>`_

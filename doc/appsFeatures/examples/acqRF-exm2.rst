@@ -156,4 +156,4 @@ Code - LabVIEW
 
 .. image:: Signal-acquisition-on-external-trigger_LV.png
 
-`Download <http://downloads.redpitaya.com/downloads/labview/Signal%20acquisition%20on%20external%20trigger.vi>`_
+`Download <http://35.204.63.20:81/downloads/Clients/labview/Signal%20acquisition%20on%20external%20trigger.vi>`_

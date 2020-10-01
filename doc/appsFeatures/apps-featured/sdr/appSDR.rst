@@ -72,7 +72,7 @@ identify pin with arrow and connect the cable as on the image bellow.
 Power SDR installation and SDR configuration
 ********************************************
 
-.. _here: http://downloads.redpitaya.com/hamlab/powersdr/Setup_PowerSDR_Charly_25_HAMlab_STEMlab_Edition.exe
+.. _here: http://35.204.63.20:81/downloads/Clients/powersdr/Setup_PowerSDR_Charly_25_HAMlab_STEMlab_Edition.exe
 
 Click here_ to download Power SDR installation package.
 

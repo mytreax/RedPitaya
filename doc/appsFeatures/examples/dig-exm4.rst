@@ -125,4 +125,4 @@ Code - LabVIEW
 
 .. image:: Interactive-LED-bar-graph_LV.png
 
-`Download <http://downloads.redpitaya.com/downloads/labview/Interactive%20LED%20bar%20graph.vi>`_
+`Download <http://35.204.63.20:81/downloads/Clients/labview/Interactive%20LED%20bar%20graph.vi>`_

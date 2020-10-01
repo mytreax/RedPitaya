@@ -44,7 +44,7 @@ Install & run network vector analyzer control app
 Windows users only
 ------------------
 
-    * Download and unpack the `control program <http://downloads.redpitaya.com/downloads/vna/vna-windows-tool.zip>`__.
+    * Download and unpack the `control program <http://35.204.63.20:81/downloads/Clients/vna/vna-windows-tool.zip>`__.
     * Run the ``vna.exe`` program.
 
 ----------------
@@ -58,7 +58,7 @@ Linux users only
             sudo apt-get install python3-dev python3-pip python3-numpy python3-pyqt5 libfreetype6-dev
             sudo pip3 install matplotlib mpldatacursor
 
-    * Download and unpack the `control program <http://downloads.redpitaya.com/downloads/vna/vna-windows-tool.zip>`__.
+    * Download and unpack the `control program <http://35.204.63.20:81/downloads/Clients/vna/vna-windows-tool.zip>`__.
     * Run the control program:
 
         .. code-block:: shell-session

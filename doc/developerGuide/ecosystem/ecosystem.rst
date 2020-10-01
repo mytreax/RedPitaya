@@ -190,7 +190,7 @@ Correct file permissions are required for ``schroot`` to work properly.
 
 .. code-block:: shell-session
 
-   wget http://downloads.redpitaya.com/downloads/redpitaya_ubuntu_13-14-23_25-sep-2017.tar.gz
+   wget http://35.204.63.20:81/downloads/STEMlab-125-1x/old/redpitaya_ubuntu_13-14-23_25-sep-2017.tar.gz
    sudo chown root:root redpitaya_ubuntu_13-14-23_25-sep-2017.tar.gz
    sudo chmod 664 redpitaya_ubuntu_13-14-23_25-sep-2017.tar.gz
 
