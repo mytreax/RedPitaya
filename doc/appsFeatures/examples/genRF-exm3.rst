@@ -128,4 +128,4 @@ Code - LabVIEW
 
 .. image:: Generate-signal-on-external-trigger_LV.png
 
-`Download <http://downloads.redpitaya.com/downloads/Clients/labview/Generate%20signal%20on%20external%20trigger.vi>`_
+`Download <https://downloads.redpitaya.com/downloads/Clients/labview/Generate%20signal%20on%20external%20trigger.vi>`_

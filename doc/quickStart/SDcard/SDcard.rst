@@ -13,16 +13,16 @@ The next procedure will create a clean SD card.
 #. Download the Red Pitaya SD card image:
 
 STEMlab 125-14 & STEMlab 125-10
-   - `Latest Stable <http://downloads.redpitaya.com/downloads/STEMlab-125-1x/STEMlab_125-xx_OS_0.99-48_stable.zip>`_  - `CHANGELOG <https://github.com/RedPitaya/RedPitaya/blob/master/CHANGELOG.md>`_
-   - `Latest Beta <http://downloads.redpitaya.com/downloads/STEMlab-125-1x/STEMlab_125-xx_OS_1.03-701_beta.img.zip>`_  - `CHANGELOG <https://github.com/RedPitaya/RedPitaya/blob/master/CHANGELOG.md>`_
+   - `Latest Stable <https://downloads.redpitaya.com/downloads/STEMlab-125-1x/STEMlab_125-xx_OS_0.99-48_stable.zip>`_  - `CHANGELOG <https://github.com/RedPitaya/RedPitaya/blob/master/CHANGELOG.md>`_
+   - `Latest Beta <https://downloads.redpitaya.com/downloads/STEMlab-125-1x/STEMlab_125-xx_OS_1.03-701_beta.img.zip>`_  - `CHANGELOG <https://github.com/RedPitaya/RedPitaya/blob/master/CHANGELOG.md>`_
 
 SDRlab 122-16
-   - `Latest Stable <http://downloads.redpitaya.com/downloads/SDRlab-122-16/STEMlab_122-16_OS_0.99-43_stable.zip>`_  - `CHANGELOG <https://github.com/RedPitaya/RedPitaya/blob/master/CHANGELOG_Z20.md>`_
-   - `Latest Beta <http://downloads.redpitaya.com/downloads/SDRlab-122-16/SDRlab_122-16_OS_1.03-6_beta.img.zip>`_  - `CHANGELOG <https://github.com/RedPitaya/RedPitaya/blob/master/CHANGELOG_Z20.md>`_
+   - `Latest Stable <https://downloads.redpitaya.com/downloads/SDRlab-122-16/STEMlab_122-16_OS_0.99-43_stable.zip>`_  - `CHANGELOG <https://github.com/RedPitaya/RedPitaya/blob/master/CHANGELOG_Z20.md>`_
+   - `Latest Beta <https://downloads.redpitaya.com/downloads/SDRlab-122-16/SDRlab_122-16_OS_1.03-6_beta.img.zip>`_  - `CHANGELOG <https://github.com/RedPitaya/RedPitaya/blob/master/CHANGELOG_Z20.md>`_
 
 SIGNALlab 250-12
-   - `Latest Stable <http://downloads.redpitaya.com/downloads/SIGNALlab-250-12/SIGNALlab_250-12_OS_1.00-26_stable.img.zip>`_  - `CHANGELOG <https://github.com/RedPitaya/RedPitaya/blob/master/CHANGELOG_Z20_250_12.md>`_
-   - `Latest Beta <http://downloads.redpitaya.com/downloads/SIGNALlab-250-12/SIGNALlab_250-12_OS_1.03-1_beta.img.zip>`_  - `CHANGELOG <https://github.com/RedPitaya/RedPitaya/blob/master/CHANGELOG_Z20_250_12.md>`_
+   - `Latest Stable <https://downloads.redpitaya.com/downloads/SIGNALlab-250-12/SIGNALlab_250-12_OS_1.00-26_stable.img.zip>`_  - `CHANGELOG <https://github.com/RedPitaya/RedPitaya/blob/master/CHANGELOG_Z20_250_12.md>`_
+   - `Latest Beta <https://downloads.redpitaya.com/downloads/SIGNALlab-250-12/SIGNALlab_250-12_OS_1.03-1_beta.img.zip>`_  - `CHANGELOG <https://github.com/RedPitaya/RedPitaya/blob/master/CHANGELOG_Z20_250_12.md>`_
 
 
 
@@ -272,7 +272,7 @@ The OS is changed less frequently.
 .. note::
 
    You can find older and development Red Pitaya OS images and Ecosystem zipfiles
-   on our `download server <http://downloads.redpitaya.com/downloads/>`_.
+   on our `download server <https://downloads.redpitaya.com/downloads/>`_.
 
 .. note::
 
@@ -319,7 +319,7 @@ A manual upgrade allows you to fix a corrupted SD card image
 (if only the FAT partition is corrupted) or to install
 older, newer or custom ecosystem zip files.
 
-#. Download a zip file from our `download server <http://downloads.redpitaya.com/downloads/>`_.
+#. Download a zip file from our `download server <https://downloads.redpitaya.com/downloads/>`_.
 
 #. Insert SD card into card reader.
 

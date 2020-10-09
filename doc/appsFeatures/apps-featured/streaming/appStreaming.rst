@@ -58,8 +58,8 @@ Start using Red Pitaya streaming feature
 
     #. ) Download streaming client to your computer.
 
-         `Linux <http://downloads.redpitaya.com/downloads/Clients/streaming/linux-tool.zip>`__.
-         `Windows <http://downloads.redpitaya.com/downloads/Clients/streaming/windows-tool.zip>`__.
+         `Linux <https://downloads.redpitaya.com/downloads/Clients/streaming/linux-tool.zip>`__.
+         `Windows <https://downloads.redpitaya.com/downloads/Clients/streaming/windows-tool.zip>`__.
 
     #. ) Set app properties & click RUN
 

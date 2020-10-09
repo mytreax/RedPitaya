@@ -27,7 +27,7 @@ Figure: Connectivity option – 20 pins.
 
 .. figure:: Schematics.png
 
-Figure: Possible implementation of some functionality (`preliminary version <http://downloads.redpitaya.com/doc/Extension/Schematic_GPIO16_A_InformativeOnly.pdf>`_). 
+Figure: Possible implementation of some functionality (`preliminary version <https://downloads.redpitaya.com/doc/Extension/Schematic_GPIO16_A_InformativeOnly.pdf>`_). 
 
 .. figure:: RPEM_Template2_Pcb3D.jpg
 
@@ -35,12 +35,12 @@ Figure: Option - forced air flow.
 
 External links:
 
-  - `PDF 3D model <http://downloads.redpitaya.com/doc/Extension/RPEM_Template1_3Dmodel.pdf>`_
-  - `3D STEP model <http://downloads.redpitaya.com/doc/Extension/RPEM_Template1_A_3D.step>`_
-  - `Red Pitaya Extension Module Dimensions <http://downloads.redpitaya.com/doc/Extension/RPEM_Template1_Dimensions.pdf>`_
-  - `PCB 3D image <http://downloads.redpitaya.com/doc/Extension/RPEM_Template1_Pcb3D.jpg>`_
-  - `PCB 3D image top <http://downloads.redpitaya.com/doc/Extension/RPEM_Template1_PcbTop.jpg>`_
-  - `GPIO16_A_Informative Schematic diagram <http://downloads.redpitaya.com/doc/Extension/Schematic_GPIO16_A_InformativeOnly.pdf>`_
-  - `PCB option - forced air flow 3d image <http://downloads.redpitaya.com/doc/Extension/RPEM_Template2_Pcb3D.jpg>`_
-  - `3D STEP option - forced air flow - model <http://downloads.redpitaya.com/doc/Extension/RPEM_Template2_A_3D.step>`_
-  - `Altium project <http://downloads.redpitaya.com/doc/Extension/RPEM_Template.zip>`_
+  - `PDF 3D model <https://downloads.redpitaya.com/doc/Extension/RPEM_Template1_3Dmodel.pdf>`_
+  - `3D STEP model <https://downloads.redpitaya.com/doc/Extension/RPEM_Template1_A_3D.step>`_
+  - `Red Pitaya Extension Module Dimensions <https://downloads.redpitaya.com/doc/Extension/RPEM_Template1_Dimensions.pdf>`_
+  - `PCB 3D image <https://downloads.redpitaya.com/doc/Extension/RPEM_Template1_Pcb3D.jpg>`_
+  - `PCB 3D image top <https://downloads.redpitaya.com/doc/Extension/RPEM_Template1_PcbTop.jpg>`_
+  - `GPIO16_A_Informative Schematic diagram <https://downloads.redpitaya.com/doc/Extension/Schematic_GPIO16_A_InformativeOnly.pdf>`_
+  - `PCB option - forced air flow 3d image <https://downloads.redpitaya.com/doc/Extension/RPEM_Template2_Pcb3D.jpg>`_
+  - `3D STEP option - forced air flow - model <https://downloads.redpitaya.com/doc/Extension/RPEM_Template2_A_3D.step>`_
+  - `Altium project <https://downloads.redpitaya.com/doc/Extension/RPEM_Template.zip>`_

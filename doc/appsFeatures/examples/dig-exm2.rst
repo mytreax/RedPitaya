@@ -112,4 +112,4 @@ Code - LabVIEW
 
 .. image:: Bar-graph-with-LEDs_LV.png
 
-`Download <http://downloads.redpitaya.com/downloads/Clients/labview/Bar%20graph%20with%20LEDs.vi>`_
+`Download <https://downloads.redpitaya.com/downloads/Clients/labview/Bar%20graph%20with%20LEDs.vi>`_

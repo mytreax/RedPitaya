@@ -124,4 +124,4 @@ Code - LabVIEW
 
 .. image:: Set-analog-voltage-on-slow-analog-output_LV.png
 
-`Download <http://downloads.redpitaya.com/downloads/Clients/labview/Set%20analog%20voltage%20on%20slow%20analog%20output.vi>`_
+`Download <https://downloads.redpitaya.com/downloads/Clients/labview/Set%20analog%20voltage%20on%20slow%20analog%20output.vi>`_
