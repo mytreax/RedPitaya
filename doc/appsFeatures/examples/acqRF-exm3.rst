@@ -24,7 +24,7 @@ Wiring example for STEMlab 125-14 & STEMlab 125-10:
 
 Circuit
 *******
-￼
+
 .. image:: generate_continous_signal_on_fast_analog_output_circuit1.png
 
 Code - MATLAB®
