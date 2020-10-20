@@ -54,6 +54,11 @@ MATLAB editor, save project and press run.
 Code - C
 ********
 
+.. note::
+
+    C code examples don't require the use of the SCPI server, we have included them here to demonstrate how the same functionality can be achieved with different programming languages. 
+    Instructions on how to compile the code are here -> `link <https://redpitaya.readthedocs.io/en/latest/developerGuide/comC.html>`_
+
 .. code-block:: c
 
     /* Read analog voltage on slow analog input */
@@ -61,7 +66,7 @@ Code - C
     #include <stdio.h>
     #include <stdlib.h>
 
-    #include "redpitaya/rp.h"
+    #include "rp.h"
 
     int main (int argc, char **argv) {
         float value [4];
