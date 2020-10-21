@@ -16,6 +16,7 @@ Required hardware
     - R1 10K potentiometer
 
 Wiring example for STEMlab 125-14 & STEMlab 125-10:
+
 .. image:: Read_analog_voltage_on_Red_Pitaya_analog_input.png
 
 Circuit
@@ -187,6 +188,7 @@ How to set sockets is described on Blink example
     SOCKET_close(tcpipObj);
 
 Code - LabVIEW
+**************
 
 .. image:: Read-analog-voltage-on-slow-analog-input_LV.png
 

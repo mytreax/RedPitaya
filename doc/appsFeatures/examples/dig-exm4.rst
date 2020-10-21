@@ -18,6 +18,7 @@ Required hardware
 .. image:: RP-circuit-e1421258707736-300x212.png
 
 Code - MATLAB®
+**************
 
 The code is written in MATLAB. In the code we use SCPI commands and TCP/IP communication. Copy code from below to
 MATLAB editor, input value p save project and press run. Change p with slider bar from 0-100.
