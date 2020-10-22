@@ -22,9 +22,15 @@ Install libraries:
 
    # apt-get install unixodbc unixodbc-dev libncurses-dev libzmq3-dev libxext6 libasound2 libxml2 libx11-6 libxtst6 libedit-dev libxft-dev libxi6 libx11-6:i386 libxau6:i386 libxdmcp6:i386 libxext6:i386 libxft-dev:i386 libxrender-dev:i386 libxt6:i386 libxtst6:i386
 
-2. *Xilinx Vivado 2017.2 (including SDK)* 
-Xilinx SDK is available from Xilinx downloads page - Vitis (SW developer) - SDK/PetaLinux Archive - 2017.2- Software Development Kit Standalone WebInstall Client:
-https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_SDK_2017.2_0616_1_Win64.exe
+2. *Xilinx Vivado 2020.1*
+Xilinx SDK is available from Xilinx downloads page:
+https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2020-1.html
+
+
+3. *Xilinx SDK development environments 2019.2*
+Xilinx SDK is available from Xilinx downloads page:
+https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vitis/archive-sdk.html
+
 
 *******************
 Directory structure
@@ -120,7 +126,7 @@ If Xilinx Vivado is installed at the default location, then the next command wil
 
 .. code-block:: shell-session
 
-   $ . /opt/Xilinx/Vivado/2017.2/settings64.sh
+   $ . /opt/Xilinx/Vivado/2020.1/settings64.sh
 
 The default mode for building the FPGA is to run a TCL script inside Vivado.
 Non project mode is used, to avoid the generation of project files,
@@ -153,7 +159,7 @@ If the script returns the following error:
 
 .. code-block:: shell-session
 
-   $ BD_TCL-109" "ERROR" "This script was generated using Vivado 2017.2 ....
+   $ BD_TCL-109" "ERROR" "This script was generated using Vivado 2020.1 ....
 
 open the project GUI(see below), go to menu Reports-> Report IP Status. A new tab opens below the code window.
 If all IPs are not up-to-date, they need to be updated. 
@@ -422,5 +428,6 @@ which can be used to modify MIO functionality at runtime.
 
 .. include:: regset_common.rst
 
+.. include:: regset_common_streaming.rst
 
 

@@ -1,6 +1,6 @@
-************
-Register map 
-************
+*************************
+Register map of FPGA 0.94
+*************************
 
 Red Pitaya HDL design has multiple functions, which are configured by registers. It also uses memory locations to store capture data and generate output signals. All of this are described in this document. Memory location is written in a way that is seen by SW. 
 
@@ -369,8 +369,9 @@ Oscilloscope
 +----------+----------------------------------------------------+------+-----+
 |          | Reserved                                           | 31:17| R   |
 +----------+----------------------------------------------------+------+-----+
-|          | Data decimation allows this values: 1,             | 16:0 | R/W |
-|          | 2, 4, 8, 16 ... 65536.                             |      |     |
+|          | Data decimation, supports only this values: 1,     | 16:0 | R/W |
+|          | 8, 64,1024,8192,65536. If other value is           |      |     |
+|          | written data will NOT be correct.                  |      |     |
 +----------+----------------------------------------------------+------+-----+
 | **0x18** | **Write pointer - current**                        |      |     |
 +----------+----------------------------------------------------+------+-----+
