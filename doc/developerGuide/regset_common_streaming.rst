@@ -1,5 +1,5 @@
 *************************
-Register map of streaming
+Register map (stream_app)
 *************************
 
 .. tabularcolumns:: |p{15mm}|p{22mm}|p{22mm}|p{55mm}|
@@ -12,7 +12,7 @@ Register map of streaming
 
 
 -----------------
-Control registers 
+Control registers
 -----------------
 
 

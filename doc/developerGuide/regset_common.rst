@@ -1,6 +1,6 @@
-*************************
-Register map of FPGA 0.94
-*************************
+********************
+Register map (v0.94)
+********************
 
 Red Pitaya HDL design has multiple functions, which are configured by registers. It also uses memory locations to store capture data and generate output signals. All of this are described in this document. Memory location is written in a way that is seen by SW. 
 

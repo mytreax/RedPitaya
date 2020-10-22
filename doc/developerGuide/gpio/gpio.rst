@@ -109,14 +109,16 @@ Character device access
 
 Character device usersace access to gpio kernel subsystem is confirmed working on kernels newer and including 4.8.
 
-References:
+References: `GPIO for Engineers and Maker <http://elinux.org/images/9/9b/GPIO_for_Engineers_and_Makers.pdf>`_
 
-http://elinux.org/images/9/9b/GPIO_for_Engineers_and_Makers.pdf
-https://www.youtube.com/watch?v=lQRCDl0tFiQ
+.. raw:: html
 
-The Linux kernel contains GPIO utilities in its ``tools`` directory.
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/lQRCDl0tFiQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
 
-https://github.com/torvalds/linux/tree/master/tools/gpio
+
+The Linux kernel contains GPIO utilities in its `tools <https://github.com/torvalds/linux/tree/master/tools/gpio>`_ directory.
 
 We isolated the sources and created a library from ``gpio-utils.c`` and
 executables from other source files.
