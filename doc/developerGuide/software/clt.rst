@@ -79,7 +79,7 @@ Signal acquisition utility
 
 The signal from Red Pitaya can be acquired through the `acquire <https://github.com/RedPitaya/RedPitaya/tree/master/Test/acquire>`_
 command line utility. It will return raw samples from the ADC buffer to standard output, with no calibration
-compensation. Usage instructions (see Table 8 as well):
+compensation. Usage instructions:
 
 .. tabs::
 
@@ -184,24 +184,24 @@ Example (system register reading):
  
 .. code-block:: shell-session
     
-    redpitaya> monitor -ams 
-    #ID                                                                    Desc                                                                                                                                        Raw                                                                    Val
-    0                                                                    Temp(0C-85C)                                                                    a4f                                                                    51.634
-    1                                                                    AI0(0-3.5V)                                                                    1                                                                    0.002
-    2                                                                    AI1(0-3.5V)                                                                    13                                                                    0.033
-    3                                                                    AI2(0-3.5V)                                                                    1                                                                    0.002
-    4                                                                    AI3(0-3.5V)                                                                    2                                                                    0.003
-    5                                                                    AI4(5V0)                                                                    669                                                                    4.898
-    6                                                                    VCCPINT(1V0)                                                                    55c                                                                    1.005
-    7                                                                    VCCPAUX(1V8)                                                                    9a9                                                                    1.812
-    8                                                                    VCCBRAM(1V0)                                                                    55d                                                                    1.006
-    9                                                                    VCCINT(1V0)                                                                    55b                                                                    1.004
-    10                                                                    VCCAUX(1V8)                                                                    9ab                                                                    1.813
-    11                                                                    VCCDDR(1V5)                                                                    809                                                                    1.507
-    12                                                                    AO0(0-1.8V)                                                                    2b0000                                                                    0.496
-    13                                                                    AO1(0-1.8V)                                                                    150000                                                                    0.242
-    14                                                                    AO2(0-1.8V)                                                                    2b0000                                                                    0.496
-    15                                                                    AO3(0-1.8V)                                                                    220000                                                                    0.392
+    redpitaya> monitor -ams
+    #ID	        Desc            Raw	            Val
+    0           Temp(0C-85C)    0x00000b12	    75.670
+    1	        AI0(0-3.5V)     0x00000008	    0.014
+    2	        AI1(0-3.5V)     0x00000017	    0.039
+    3	        AI2(0-3.5V)     0x00000008	    0.014
+    4	        AI3(0-3.5V)     0x00000006	    0.010
+    5	        AI4(5V0)        0x000004f9	    3.800
+    6	        VCCPINT(1V0)    0x0000055e	    1.006
+    7	        VCCPAUX(1V8)    0x00000995	    1.797
+    8	        VCCBRAM(1V0)    0x00000561	    1.009
+    9           VCCINT(1V0)     0x00000561	    1.009
+    10          VCCAUX(1V8)     0x00000997	    1.798
+    11          VCCDDR(1V5)     0x00000806	    1.504
+    12          AO0(0-1.8V)     0x0000000f	    0.173
+    13          AO1(0-1.8V)     0x0000004e	    0.900
+    14          AO2(0-1.8V)     0x00000075	    1.350
+    15          AO3(0-1.8V)     0x0000009c	    1.800
 
 You can find some detailed description of the above mentioned pins `here <https://redpitaya.readthedocs.io/en/latest/developerGuide/125-14/extent.html>`_.
 The –ams switch provides access to analog mixed signals including Zynq SoC temperature, auxiliary analog input reading, power supply voltages and configured auxiliary analog output settings. The auxiliary analog outputs can be set through the monitor utility using the –sadc switch:
