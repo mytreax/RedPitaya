@@ -3,7 +3,7 @@ FPGA
 ####
 The following build instructions were tested on Ubuntu 18.04.
 
-Before trying to build the FPGA project, please refer to 3.2.3: Ecosystem Guide; subchapters 3.2.3.1.2. Software requirements and 3.2.3.2: Building process.
+Before trying to build the FPGA project, please refer to :ref:`Ecosystem Guide <ecosystem>`, :ref:`Software requirements <sys-req-label>` and :ref:`Building process <build-proc-label>`.
 In addition to running settings64.sh, it might be also necessary to add SDK bin folder to ``$PATH`` environment variable.
 
 .. code-block:: shell-session
