@@ -10,11 +10,13 @@ Register map (stream_app)
 | CS[0]  | 0x40000000  | 0x4000FFFF | Control registers                |
 +--------+-------------+------------+----------------------------------+
 
+==================
+Red Pitaya Modules
+==================
 
 -----------------
 Control registers
 -----------------
-
 
 .. tabularcolumns:: |p{15mm}|p{105mm}|p{15mm}|p{15mm}|
 
