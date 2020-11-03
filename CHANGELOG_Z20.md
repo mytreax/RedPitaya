@@ -7,7 +7,7 @@
 other general improvements and updates
 - Added application for calibrating RP
   
-# Stable versioxt  (1.03-6)
+# Stable version  (1.03-6)
 
 General improvements:
 - Access point working with official WIFI dongle
