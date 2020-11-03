@@ -2,7 +2,7 @@
 
 PATH_XILINX_SDK=/opt/Xilinx/SDK/2019.1
 PATH_XILINX_VIVADO=/opt/Xilinx/Vivado/2020.1
-RP_UBUNTU=redpitaya_ubuntu_13-14-23_25-sep-2017.tar.gz
+RP_UBUNTU=LinuxOS/redpitaya_ubuntu_13-14-23_25-sep-2017.tar.gz
 SCHROOT_CONF_PATH=/etc/schroot/chroot.d/red-pitaya-ubuntu.conf
 
 function print_ok(){
