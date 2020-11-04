@@ -5,7 +5,6 @@
 - Open source FPGA code can now be compiled with Vivado 2020.1
 - New OS available notification was implemented into WEB interface
 other general improvements and updates
-- Added application for calibrating RP
   
 # Stable version (1.03-6)
 
