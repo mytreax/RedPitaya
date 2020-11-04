@@ -1,4 +1,4 @@
-# Release (1.04-7)
+# Release (1.04-8)
 
 - The streaming application was improved. One of the main features is that users can now exactly know when and which samples are lost due to throughput problems or limitation
 - Watchdog was implemented for Linux and WEB applications. In case of fatal error or lost connection device will always return to its previous operation state. 
@@ -7,7 +7,7 @@
 other general improvements and updates
 - Added application for calibrating RP
   
-# Stable version  (1.03-6)
+# Stable version (1.03-6)
 
 General improvements:
 - Access point working with official WIFI dongle
