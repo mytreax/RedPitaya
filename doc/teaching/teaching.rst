@@ -32,6 +32,6 @@ Red Pitaya - Learn FPGA
 Laboratory for Integrated Circuit Design: Red Pitaya Projects
 *************************************************************
 
-   :doc:`Laboratory for Integrated Circuit Design <lniv:index>`
+   `Laboratory for Integrated Circuit Design <https://lniv.fe.uni-lj.si/redpitaya/>`_
 
 **Want to be a contributor or help us with translations?** just write us on <info@redpitaya.com>
