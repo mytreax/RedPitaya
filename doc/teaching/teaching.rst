@@ -28,5 +28,10 @@ Red Pitaya - Learn FPGA
 
    :doc:`Learn FPGA <fpga_teach:index>`
 
+*************************************************************
+Laboratory for Integrated Circuit Design: Red Pitaya Projects
+*************************************************************
+
+   :doc:`Laboratory for Integrated Circuit Design <lniv:index>`
 
 **Want to be a contributor or help us with translations?** just write us on <info@redpitaya.com>

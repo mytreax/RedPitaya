@@ -312,4 +312,5 @@ texinfo_documents = [
 intersphinx_mapping = {
     'sref': ('https://activelearning.readthedocs.io/en/latest/', None),
     'fpga_teach': ('https://documentation-rp-test.readthedocs.io/en/latest/', None),
+    'lniv': ('https://lniv.fe.uni-lj.si/redpitaya/', None)
 }
